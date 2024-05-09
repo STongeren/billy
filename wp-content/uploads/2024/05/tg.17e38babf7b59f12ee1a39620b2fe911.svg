@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.68 199.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 10.58px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="pokeball_chart" data-name="pokeball chart">
+    <g id="Layer_37" data-name="Layer 37">
+      <rect class="cls-1" x="18.42" y="18.42" width="162.83" height="162.83" rx="23.97" ry="23.97" transform="translate(-22.82 29.9) rotate(-15.31)"/>
+    </g>
+    <path id="Telegram" class="cls-2" d="M125.15,47.17L48.25,117.68s-.09.09-.13.14c-.57.7-4.47,5.85,3.86,5.83h.08s24.3-1.47,24.3-1.47c.38-.02.72-.21.95-.51l40.46-54.32c.1-.13.22-.25.37-.33.7-.41,2.75-1.48,2.07.77-.77,2.55-24.51,49.61-27.15,54.83-.15.3-.18.65-.09.97l6.48,21.8c.17.44.54.77.99.89.62.12,1.25-.18,1.55-.75l8.34-16.47c.27-.54.88-.81,1.46-.66l28.72,7.49.09.02c.67.12,7.85,1.24,6.57-7.02l-13.28-79.45c-.07-.24-.86-2.88-3.28-3.68-2.54-.83-4.94,1.03-5.32,1.28-.05.04-.1.08-.15.13Z"/>
+  </g>
+</svg>

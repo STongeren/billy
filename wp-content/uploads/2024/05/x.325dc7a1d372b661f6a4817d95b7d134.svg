@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199.68 199.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 10.58px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="pokeball_chart" data-name="pokeball chart">
+    <g id="Layer_37" data-name="Layer 37">
+      <rect class="cls-1" x="18.42" y="18.42" width="162.83" height="162.83" rx="23.97" ry="23.97" transform="translate(-22.82 29.9) rotate(-15.31)"/>
+      <path class="cls-2" d="M120.73,43.66l16.74-4.44-25.49,51.49,58.09,45.47-33.69,8.93-35.52-27.5-21.05,42.49-16.75,4.44,27.27-55.07-55.57-43.03,34.54-9.15,32.2,25.21,19.23-38.84ZM138.35,133.87l9.28-2.46-80.84-63.29-9.95,2.64,81.52,63.11h0Z"/>
+    </g>
+  </g>
+</svg>
